@@ -1,3 +1,3 @@
-# pr-scenario-test-another test
+# pr-scenario-test
 
-with another line
+a new line
